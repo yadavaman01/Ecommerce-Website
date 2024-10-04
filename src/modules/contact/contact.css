@@ -1,0 +1,85 @@
+.helpcentersection{
+    margin-bottom: 10rem;
+    position: relative;
+    overflow: visible;
+}
+.helpcenterwrapper{
+    background-image: url("https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-2RgmJOxbvBbg-hr-search.png");
+    background-size: cover;
+    /* position: relative; */
+}
+.helpcentercontainer{
+    width: 66%;
+    margin: 8rem auto 11rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.7rem;
+    /* position: relative; */
+}
+.helpheader{
+    font-size: xxx-large;
+    color: white;
+    font-weight: 800;
+    /* color: white; */
+}
+.helpdetail{
+    color: white;
+}
+.helpsearch{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    width: 60%;
+    border-radius: 50px;
+    margin: 3rem;
+    padding: 10px;
+    gap: 1rem;
+}
+.helpsearch input{
+    margin: 1rem;
+    padding: 0 1rem;
+    width: 82%;
+    border: none;
+    outline: none;
+    color: #929292;
+    font-size: medium;
+}
+.searchbtn{
+    background-color: black;
+    padding: 1rem;
+    color: white;
+    width: 15%;
+    text-align: center;
+    border-radius: 50px;
+}
+.orderreturn-container{
+    position: absolute;
+    bottom: -6.5rem;
+    display: flex;
+    gap: 1.5rem;
+    width: 60%;
+    justify-content: center;
+}
+.order{
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    padding: 1.5rem 3rem;
+    border: 1px solid #919191;
+}
+.orderstatus{
+    color: #919191;
+}
+.trackbtn{
+    color: white;
+    background-color: black;
+    padding: 0.8rem 2rem;
+    border-radius: 30px;
+}

@@ -1,0 +1,121 @@
+.top-wrapper{
+    height: 770px;
+    /* background-repeat: no-repeat; */  
+    /* border: 2px solid blue; */
+}
+.topupperwrapper{
+    /* width: 100%; */
+    background-image: url("../../../../assets/ecom-no-replace-IMv878OgVrMask_group_2.webp");
+    background-position: center;
+    background-size: cover;
+    height: 680px;
+    display: flex;
+    /* border: 2px solid salmon; */
+}
+.topcontainer{
+    width: 78%;
+    margin: auto;
+    padding: 0 3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+.subheading{
+    padding: 1rem;
+    background-color: #40209b;
+    border-radius: 13rem;
+    color: white;
+    width: 20rem;
+    text-align: center;
+
+}
+.heading{
+    font-size: x-large;
+    color: white;
+}
+.detail{
+    width: 40%;
+    line-height: 20px;
+    font-size: large;
+    margin-bottom: 2rem;
+}
+.button{
+    padding: 1rem;
+    width: 14rem;
+    background-color: #fabcfe;
+    border-radius: 13rem;
+    text-align: center;
+    font-weight: bold;
+    /* font-weight: bold; */
+    /* font-weight: 900; */
+    color: #40209b;
+    
+}
+.button:hover{
+    color:#fabcfe;
+    background-color: #40209b;
+}
+/* .explore{
+
+} */
+.lowerwrapper{
+    height: 90px;
+    background-color: #bdfff3;
+    display: flex;
+    /* border: 2px solid red; */
+}
+.lowercontainer{
+    width: 78%;
+    margin: auto;
+    /* padding: 0 3rem; */
+    
+    
+}
+.rotate{
+    display: flex;
+    gap: 2rem;
+    animation: translate 10s linear infinite;
+}
+@keyframes translate{
+    0%{
+        translate: 0%;
+    }
+    100%{
+        translate: -100%;
+    }
+}
+.lowercontainer:hover .rotate {
+    animation-play-state: paused;
+  }
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    color: #40209b;
+}
+.banner::after{
+    color: #a1d0df;
+    content: "/";
+    display: flex;
+    align-items: center;
+    font-size: 3rem;
+    margin-left: 1.5rem;
+}
+
+
+
+
+
+.hometopcontainer{
+    width:78%;
+    margin: auto;
+    
+
+    
+    /* padding: 1.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem; */
+}

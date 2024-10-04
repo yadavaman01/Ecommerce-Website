@@ -1,0 +1,9 @@
+.navwrapper{
+    padding: 1rem 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(120, 120, 226);
+    text-decoration: none;
+    color: black;
+}

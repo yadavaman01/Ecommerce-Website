@@ -1,0 +1,32 @@
+.limitedtimewrapper{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    /* height: 893px; */
+    /* border: 2px solid darkcyan; */
+}
+.limitedtimecontainer{
+    width: 78%;
+    margin: auto;
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    gap: 1.5rem;
+    color: #40209b;
+}
+.limitedofferheading{
+    font-size: larger;
+    font-weight: bold;
+}
+.limitedoffersub-heading{
+    font-weight: bold;
+}
+.cards{
+    /* padding: 1.25rem; */
+    margin-top: 3rem;
+    width: 100%;
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+}

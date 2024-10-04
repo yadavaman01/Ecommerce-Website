@@ -1,0 +1,29 @@
+.helpdeskcardcontainer{
+    padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 1.5rem;
+}
+.helpdeskcard{
+    padding: 3rem 4.5rem;
+    line-height: 2rem;
+    background-color: #f4f4fe;
+    margin-bottom: 2rem;
+    border-radius: 20px;
+}
+.helpimg> img{
+    width: 64px;
+}
+.helpdeskcarddetail{
+    color: #7a7b81;
+}
+.viewmore{
+    color: #000000;
+    text-decoration: none;
+    opacity: 0.8;
+}
+.viewmore:hover{
+    color: red;
+}

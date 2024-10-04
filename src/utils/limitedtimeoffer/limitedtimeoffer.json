@@ -1,0 +1,37 @@
+{
+    "timeLeft":[
+        {
+            "data":""
+        },
+        {
+            "hours":""
+        },
+        {
+            "min":""
+        },
+        {
+            "sec":""
+        }
+    ],
+    "Items" : [
+        {
+            "imgUrl1":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle142497_4_720x.png?v=1726044420",
+            "imgUrl2":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle142497_5_720x.png?v=1726044420",
+            "name":"SCHOOL SUPPLIES",
+            "price":"BACKPACKS LAPTOP SLEEVE"
+        },
+        {
+            "imgUrl":"https://ecomposer-khoapham.myshopify.com/cdn/shop/collections/Rectangle_142493_535x.png?v=1725510438",
+            "name":"ELECTRONICS"
+        },
+        {
+            "imgUrl":"https://ecomposer-khoapham.myshopify.com/cdn/shop/collections/Rectangle_142494_535x.png?v=1725510456",
+            "name":"BACKPACKS & BAGS"
+        },
+        {
+            "imgUrl":"https://ecomposer-khoapham.myshopify.com/cdn/shop/collections/Rectangle_142495_535x.png?v=1725510479",
+            "name":"CLOTHING"
+        }
+
+    ]
+}

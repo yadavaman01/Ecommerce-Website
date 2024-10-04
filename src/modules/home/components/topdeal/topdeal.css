@@ -1,0 +1,47 @@
+.topdealcontainer{
+    width: 78%;
+    margin: auto;
+    padding: 1.25rem;
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    color: #40209b;
+    margin-bottom: 100px;
+}
+.topdealimg{
+    width: 59%;
+}
+.topdealimg img{
+    width: 95%;
+    object-fit: cover;
+}
+.topdealdetail{
+    width: 39%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1.5rem;
+}
+.topdealheading{
+    font-size: x-large;
+}
+.topdealsubheading{
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+.topdealsubheading span{
+    font-weight: bolder;
+}
+.tick{
+    color: #f9bdff;
+}
+.grabbutton{
+    margin-top: 2rem;
+    font-weight: bolder;
+    font-size: large;
+    
+}

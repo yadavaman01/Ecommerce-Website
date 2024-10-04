@@ -1,0 +1,21 @@
+{
+    "Items" : [
+        {
+            "imgUrl":"https://ecomposer-khoapham.myshopify.com/cdn/shop/collections/Rectangle_142492_535x.png?v=1725510418",
+            "name":"SCHOOL SUPPLIES"
+        },
+        {
+            "imgUrl":"https://ecomposer-khoapham.myshopify.com/cdn/shop/collections/Rectangle_142493_535x.png?v=1725510438",
+            "name":"ELECTRONICS"
+        },
+        {
+            "imgUrl":"https://ecomposer-khoapham.myshopify.com/cdn/shop/collections/Rectangle_142494_535x.png?v=1725510456",
+            "name":"BACKPACKS & BAGS"
+        },
+        {
+            "imgUrl":"https://ecomposer-khoapham.myshopify.com/cdn/shop/collections/Rectangle_142495_535x.png?v=1725510479",
+            "name":"CLOTHING"
+        }
+
+    ]
+}

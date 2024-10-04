@@ -1,0 +1,39 @@
+.categorywrapper{
+    margin-top: 100px;
+    /* height: 350px; */
+    /* padding: 10px auto; */
+    /* border: 2px solid blue; */
+}
+.categorycontainer{
+    width:78%;
+    margin: auto;
+    padding: 1.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.category{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: center;
+    /* height: 100%; */
+    /* object-fit: cover; */
+}
+.category img{
+    width: 95%;
+    perspective: 15px;
+    transition: transform 0.3s ease;
+    /* perspective: 1; */
+    /* height: 18.25rem; */
+}
+.category img:hover{
+    transform: scale(0.9);
+    /* transform: perspective(15px) scaleZ(0.6); */
+}
+.category h3:hover{
+    color: #695d8b;
+
+}

@@ -1,0 +1,34 @@
+.questionwrapper{
+    background-color: #e0e1ff;
+    padding-top: 2rem;
+    padding-bottom:4rem;
+}
+.questioncontainer{
+    width: 78%;
+    margin: auto;
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    gap: 1.5rem;
+    
+    
+}
+/* <Accordion disabled>
+        <AccordionSummary
+          expandIcon={<ExpandLess />}
+          aria-controls="panel3-content"
+          id="panel3-header"
+        >
+          <Typography>Disabled Accordion</Typography>
+        </AccordionSummary>
+      </Accordion> */
+
+.question{
+    width: 100%;
+    border-radius: 30px;
+    border: 1px solid #737373;
+    /* color: #ce1a1a; */
+    /* background-color: ; */
+}
