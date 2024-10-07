@@ -1,4 +1,4 @@
-import "./helpdeskcard.css"
+import "./Helpdeskcard.css"
 import { Link } from "react-router-dom"
 
 function Helpdeskcard() {

@@ -1,5 +1,5 @@
-import "./anotherquestion.css"
-import { Link } from "react-router-dom"
+import "./Anotherquestion.css"
+// import { Link } from "react-router-dom"
 
 function Anotherquestion() {
   return (

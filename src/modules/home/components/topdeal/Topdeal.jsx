@@ -1,5 +1,4 @@
-import "./topdeal.css"
-import React from 'react'
+import "./Topdeal.css"
 import { FaCheck } from "react-icons/fa6";
 
 

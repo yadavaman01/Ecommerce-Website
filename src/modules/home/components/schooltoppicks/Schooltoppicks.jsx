@@ -1,6 +1,5 @@
-import "./schooltoppicks.css"
-import Cards from "../cards/cards"
-import React from 'react'
+import "./Schooltoppicks.css"
+import Schoolcard from "./schoolcard/Schoolcard"
 
 function Schooltoppicks() {
   return (
@@ -11,7 +10,7 @@ function Schooltoppicks() {
             {/* <div className="limitedoffersub-heading">HURRY BEFORE THEY'RE GONE!</div>
             <div className="time-remaining button">aman</div> */}
             <div className="cards">
-              <Cards/>
+              <Schoolcard/>
             </div>
         </div>
       </div>

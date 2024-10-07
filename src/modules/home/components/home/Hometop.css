@@ -13,9 +13,9 @@
     /* border: 2px solid salmon; */
 }
 .topcontainer{
-    width: 78%;
+    width: 70%;
     margin: auto;
-    padding: 0 3rem;
+    /* padding: 0 3rem; */
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
@@ -25,7 +25,7 @@
     background-color: #40209b;
     border-radius: 13rem;
     color: white;
-    width: 20rem;
+    width: 31%;
     text-align: center;
 
 }
@@ -38,6 +38,7 @@
     line-height: 20px;
     font-size: large;
     margin-bottom: 2rem;
+    color: white;
 }
 .button{
     padding: 1rem;
@@ -118,4 +119,26 @@
     justify-content: center;
     align-items: center;
     gap: 2rem; */
+}
+@media (max-width: 380px) {
+    .subheading {
+        width: 85%;
+    }
+    .topcontainer{
+        width: 90%;
+    }
+    .button{
+        width: 60%;
+        padding: 0.7rem;
+    }
+    .detail{
+        width: 100%;
+        font-size: large;
+    }
+    .heading{
+        font-size: large;
+    }
+    /* .category {
+        flex: 0 0 30%;
+    } */
 }

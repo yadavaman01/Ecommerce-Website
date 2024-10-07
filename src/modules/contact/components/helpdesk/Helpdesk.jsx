@@ -1,5 +1,5 @@
-import Helpdeskcard from "../helpdeskcards/helpdeskcard"
-import "./helpdesk.css"
+import Helpdeskcard from "../helpdeskcards/Helpdeskcard"
+import "./Helpdesk.css"
 
 function Helpdesk() {
   return (

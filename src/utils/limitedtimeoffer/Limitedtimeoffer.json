@@ -1,0 +1,33 @@
+{
+    "Items" : [
+        {
+            "imgUrl1":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle142497_4_720x.png?v=1726044420",
+            "imgUrl2":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle142497_5_720x.png?v=1726044420",
+            "name":"Backpack Laptop Sleeve",
+            "price":"$39",
+            "discount":"-18%"
+        },
+        {
+            "imgUrl1":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle142496_720x.png?v=1725522415",
+            "imgUrl2":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle142496_1_533x.png?v=1725522414",
+            "name":"ColorSticks Erasable Gel Ink Pens",
+            "price":"$17",
+            "discount":"-66%"
+        },
+        {
+            "imgUrl1":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle142497.png?v=1725522311",
+            "imgUrl2":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle142497_1_720x.png?v=1725522311",
+            "name":"Heritage Pique Polo",
+            "price":"$48",
+            "discount":"-4%"
+        },
+        {
+            "imgUrl1":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle142498_720x.jpg?v=1725522227",
+            "imgUrl2":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle142498_2_720x.jpg?v=1725522227",
+            "name":"Open Back Headphone",
+            "price":"$89",
+            "discount":"-31%"
+        }
+
+    ]
+}

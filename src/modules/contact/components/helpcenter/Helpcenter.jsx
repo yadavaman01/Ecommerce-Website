@@ -1,4 +1,4 @@
-import "./helpcenter.css"
+import "./Helpcenter.css"
 import { GoArrowRight } from "react-icons/go";
 function Helpcenter() {
   return (

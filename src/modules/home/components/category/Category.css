@@ -37,3 +37,40 @@
     color: #695d8b;
 
 }
+
+@media (max-width: 1030px) {
+    .categorycontainer {
+        overflow: hidden;
+        justify-content: space-between;
+    }
+    .category {
+        flex: 0 0 30%;
+    }
+}
+
+/* @media (max-width: 770px) {
+    .categorycontainer {
+        overflow: hidden;
+    }
+    .category {
+        flex:  0 30%;
+    }
+} */
+/* @media (max-width: 800px) {
+    .categorycontainer{
+        justify-content: space-between;
+    }
+    .category {
+        flex: 0 0 45%;
+    }
+} */
+@media (max-width: 800px) {
+    .categorycontainer{
+        width: 90%;
+        padding: 0;
+        font-size: 12px;
+    }
+    .category {
+        flex: 0 0 45%;
+    }
+}

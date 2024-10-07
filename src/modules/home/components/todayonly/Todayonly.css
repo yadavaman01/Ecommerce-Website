@@ -115,3 +115,7 @@
     width: 100%;
     object-fit: cover;
 }
+.todaybtn{
+    padding: 0.8rem;
+    width: 11rem;
+}

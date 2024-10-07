@@ -1,6 +1,6 @@
 import React from 'react'
-import categories from "../../../utils/categories/categories.json"
-import "./category.css"
+import categories from "../../../../utils/categories/Categories.json"
+import "./Category.css"
 function Category() {
   console.log(categories.Items)
   return (
@@ -15,7 +15,18 @@ function Category() {
             </div>
           ))}
           
-          {/* <div className="category">
+          
+        </div>
+      </div>
+    </div>
+  )
+}
+
+export default Category
+
+
+
+{/* <div className="category">
             <img src="https://ecomposer-khoapham.myshopify.com/cdn/shop/collections/Rectangle_142493_535x.png?v=1725510438" alt=""   />
             <h3>ELECTRONICS</h3>
           </div>
@@ -27,10 +38,3 @@ function Category() {
             <img src="https://ecomposer-khoapham.myshopify.com/cdn/shop/collections/Rectangle_142495_535x.png?v=1725510479" alt=""   />
             <h3>CLOTHING</h3>
           </div> */}
-        </div>
-      </div>
-    </div>
-  )
-}
-
-export default Category

@@ -26,7 +26,25 @@
     /* padding: 1.25rem; */
     margin-top: 3rem;
     width: 100%;
+    /* position: relative; */
     /* display: flex;
     justify-content: space-between;
     align-items: center; */
+}
+
+
+@media (max-width: 800px) {
+    .limitedtimecontainer {
+        width: 90%;          /* Increase width to 90% */
+        padding: 0;         /* Remove padding for a more compact layout */
+        font-size: 12px;    /* Set font size to 12px for smaller text */
+    }
+
+    .limitedofferheading {
+        font-size: 1.5em;   /* Adjust font size if necessary for smaller screens */
+    }
+
+    .limitedoffersub-heading {
+        font-size: 1.2em;   /* Adjust font size if necessary for smaller screens */
+    }
 }

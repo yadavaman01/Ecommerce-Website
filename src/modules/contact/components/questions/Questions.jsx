@@ -1,5 +1,5 @@
-import AccordionUsage from "./accordion/accordion"
-import "./questions.css"
+import AccordionUsage from "./accordion/Accordion"
+import "./Questions.css"
 
 function Questions() {
   return (

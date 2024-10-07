@@ -1,5 +1,5 @@
 import React from 'react'
-import "./hometop.css"
+import "./Hometop.css"
 import discount from "../../../../assets/discount.png"
 
 function Hometop() {

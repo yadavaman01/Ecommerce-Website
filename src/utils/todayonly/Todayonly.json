@@ -1,0 +1,20 @@
+{
+    "Items" : [
+        {
+            "imgUrl":"https://cdn.shopify.com/s/files/1/0623/8303/0317/files/ecom-no-replace-kWSGDGiNfT61QfSvAihfL._AC_SL1500__1.png?v=1725583956",
+            "name":"GOLDEN HOUR",
+            "detail1":"For Tablets & Technology",
+            "detail2":"Products",
+            "discount":"75",
+            "btn":"SHOP NOW"
+        },
+        {
+            "imgUrl":"https://cdn.shopify.com/s/files/1/0623/8303/0317/files/ecom-no-replace-QpilbOyWKlimage_69.png?v=1725586914",
+            "name":"FLASH SALE",
+            "detail1":"FOR Faishon & School",
+            "detail2":"Uniforms",
+            "discount":"50",
+            "btn":"SHOP THE SALE"
+        }
+    ]
+}

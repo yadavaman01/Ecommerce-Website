@@ -1,6 +1,6 @@
-import { MdOutlineEmail } from "react-icons/md";
-import "./footer.css";
-import { X } from "@mui/icons-material";
+// import { MdOutlineEmail } from "react-icons/md";
+import "./Footer.css";
+// import { X } from "@mui/icons-material";
 const Footer = () => {
   return (
     <div>

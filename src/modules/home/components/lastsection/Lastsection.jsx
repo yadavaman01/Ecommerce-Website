@@ -1,5 +1,5 @@
 import { FaCheck } from "react-icons/fa6";
-import "./lastsection.css"
+import "./Lastsection.css"
 function Lastsection() {
   return (
     <div style={{overflow:"visible"}}>

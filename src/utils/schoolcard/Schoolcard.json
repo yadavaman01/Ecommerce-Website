@@ -1,0 +1,32 @@
+{
+    "Items" : [
+        {
+            "imgUrl1":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle_142497_3.png?v=1725529113",
+            "imgUrl2":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle_142497_2_720x.png?v=1725529113",
+            "name":"Backpack for Boys Girl",
+            "price":"$27",
+            "discount":"-46%"
+        },
+        {
+            "imgUrl1":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle142497_4_533x.png?v=1726044420",
+            "imgUrl2":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle142497_5_533x.png?v=1726044420",
+            "name":"Backpack Laptop Sleeve",
+            "price":"$39",
+            "discount":"-66%"
+        },
+        {
+            "imgUrl1":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle_142496_2_720x.png?v=1725528970",
+            "imgUrl2":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle_142496_3_533x.png?v=1725528970",
+            "name":"Mini Smart Watch",
+            "price":"$89",
+            "discount":"-26%"
+        },
+        {
+            "imgUrl1":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle_142498_1_533x.png?v=1725529113",
+            "imgUrl2":"https://ecomposer-khoapham.myshopify.com/cdn/shop/files/Rectangle_142498_1_533x.png?v=1725529113",
+            "name":"Uniform Cotton V-Neck Sweater",
+            "price":"$37",
+            "discount":""
+        }
+    ]
+}

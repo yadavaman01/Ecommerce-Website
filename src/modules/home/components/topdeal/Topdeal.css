@@ -3,7 +3,7 @@
     margin: auto;
     padding: 1.25rem;
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     /* flex-direction: column; */
     align-items: center;
     justify-content: center;
@@ -44,4 +44,29 @@
     font-weight: bolder;
     font-size: large;
     
+}
+/* @media (max-width: 1030px) {
+    .topdealcontainer {
+        flex-wrap: wrap;
+    }
+    .topdealimg{
+        width: 40%;
+    }
+} */
+
+@media (max-width: 770px) {
+    .topdealcontainer {
+        /* flex-wrap: wrap; */
+        /* overflow: hidden;
+        justify-content: space-between; */
+    }
+    /* .category {
+        flex: 0 0 30%;
+    } */
+     .topdealimg{
+        width: 100%;
+     }
+     .topdealdetail{
+        width: 100%;
+     }
 }

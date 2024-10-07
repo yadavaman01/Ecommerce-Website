@@ -5,6 +5,47 @@
     gap: 2rem;
     font-family: sans-serif;
     font-weight: bold;
+    transition: all 0.5s ease-in-out;
+    
+}
+.card:hover .rightslide{
+    opacity: 1;
+}
+.leftslide:hover{
+    color: #40209b;
+    background-color: #f9bcff;
+}
+.rightslide:hover{
+    color: #40209b;
+    background-color: #f9bcff;
+}
+.leftslide{
+    cursor: pointer;
+    background-color: #40209b;
+    border-radius: 50%;
+    padding:1.3rem;
+    display: flex;
+    color:#f9bcff;
+    position: absolute;
+    top: 39%;
+    left: 4%;
+    opacity: 0;
+    z-index: 10;
+}
+.rightslide{
+    cursor: pointer;
+    background-color: #40209b;
+    border-radius: 50%;
+    padding:1.3rem;
+    display: flex;
+    color:#f9bcff;
+    position: absolute;
+    top: 39%;
+    right: 4%;
+    opacity: 0;
+    z-index: 10;
+    
+
 }
 .singlecardwrapper{
     width: 30%;
@@ -15,6 +56,7 @@
     align-items: center;
     justify-content: center;
     gap: 1.5rem;
+    
     /* transition: all 0.5s ease; */
 }
 .discount{
@@ -75,3 +117,21 @@
 .singlecardwrapper:hover .addtocartbtn{
     opacity: 1;
 }
+.forschoolcard{
+    opacity: 1;
+    cursor: pointer;
+}
+@media (max-width: 370px) {
+    .card {
+      flex-wrap: wrap;
+    }
+    .singlecardwrapper {
+      width: 100%;
+    }
+    .singlecardwrapper:not(:first-child) {
+        display: none;
+    }
+    .singlecardwrapper .addtocartbtn{
+        opacity: 1;
+    }
+  }
